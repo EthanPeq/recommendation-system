@@ -28,6 +28,10 @@ This section generates recommendations based on the user's feedback—specifical
 
 This enables real-time, evolving recommendations that reflect what the user finds interesting—or not.
 
+## Example
+![Liked Post Example](Liked%20Post%20Example.jpg)
+
+
 ## Installation
 
 1. Clone the repository:
